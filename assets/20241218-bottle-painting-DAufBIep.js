@@ -1,0 +1,1 @@
+var t={date:"2023-10-01",title:"水与祝福的共享",url:"https://et9v2rylce.feishu.cn/wiki/XQ3wwgvlriQj2dk4hX4coRlTnlg?",tags:["共绘","互动"]},e="\n欢迎来到串门骑行补给站！请享用水和祝福...... By 青静\n",l="<p>欢迎来到串门骑行补给站！请享用水和祝福… By 青静</p>\n",a={attributes:t,markdown:e,html:l};export{t as attributes,a as default,l as html,e as markdown};

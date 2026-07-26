@@ -1,0 +1,1 @@
+var t={date:"2024-07-01",Title:"自然环境",icon:"bi bi-emoji-angry"},n="\n比如：**尾气怪**， 机动车尾气排放严重的路段；**噪音怪** ，噪音污染严重的骑行路段；**垃圾怪**， 沿途垃圾堆积，影响环境和心情...\n",r="<p>比如：<strong>尾气怪</strong>， 机动车尾气排放严重的路段；<strong>噪音怪</strong> ，噪音污染严重的骑行路段；<strong>垃圾怪</strong>， 沿途垃圾堆积，影响环境和心情…</p>\n",o={attributes:t,markdown:n,html:r};export{t as attributes,o as default,r as html,n as markdown};

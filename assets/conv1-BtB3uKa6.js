@@ -1,0 +1,1 @@
+var n={date:"2024-05-01",avatar:"m1.png"},a="\n门精灵：希望折叠自行车西能随处跟人走，不用担心被嫌弃和驱逐，尤其是地铁或公交。\n\n- 自行车能上地铁\n\n  ",t="<p>门精灵：希望折叠自行车西能随处跟人走，不用担心被嫌弃和驱逐，尤其是地铁或公交。</p>\n<ul>\n<li>自行车能上地铁</li>\n</ul>\n",l={attributes:n,markdown:a,html:t};export{n as attributes,l as default,t as html,a as markdown};

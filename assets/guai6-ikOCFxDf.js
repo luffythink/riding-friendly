@@ -1,0 +1,1 @@
+var n={date:"2024-03-01",Title:"其它",icon:"bi bi-pin-angle"},t="\n比如：以次充好怪、收费不合理怪、调度机制不合理怪…更多等你来发现、记录、传播。\n\n",a="<p>比如：以次充好怪、收费不合理怪、调度机制不合理怪…更多等你来发现、记录、传播。</p>\n",e={attributes:n,markdown:t,html:a};export{n as attributes,e as default,a as html,t as markdown};

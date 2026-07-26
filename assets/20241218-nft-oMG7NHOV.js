@@ -1,0 +1,1 @@
+var t={date:"2024-02-01",title:"骑行 NFT Mint",url:"https://et9v2rylce.feishu.cn/wiki/V1wTwb615iDfXakFbW5c6VeqnG7?",tags:["体验","互动"]},e="\nNFT 数字徽章平替实物奖牌，打怪游戏机制设计。By 城汇玩\n\n",a="<p>NFT 数字徽章平替实物奖牌，打怪游戏机制设计。By 城汇玩</p>\n",n={attributes:t,markdown:e,html:a};export{t as attributes,n as default,a as html,e as markdown};
