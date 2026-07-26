@@ -1,0 +1,1 @@
+function t(t,r){return String(r?.attributes?.date||"").localeCompare(String(t?.attributes?.date||""))}function r(t,r){return String(t?.attributes?.date||"").localeCompare(String(r?.attributes?.date||""))}function e(t,r){const e=Object.entries(t).find(([t])=>t.endsWith(`/${r}`));if(!e)throw new Error(`内容图片不存在：${r}`);return e[1].default}export{t as n,e as r,r as t};
